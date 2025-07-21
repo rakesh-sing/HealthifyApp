@@ -1,0 +1,25 @@
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.card {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+}
+
+.list-group-item {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.btn-sm {
+  padding: 4px 10px;
+  font-size: 0.85rem;
+}
+
+input.form-control {
+  border-radius: 6px;
+}
